@@ -1,4 +1,4 @@
-//import "style.scss";
+import "./style.scss";
 
 /**
  *  EDIT ONLY INSIDE THIS RENDER FUNCTION
